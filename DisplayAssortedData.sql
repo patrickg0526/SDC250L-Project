@@ -1,7 +1,5 @@
--- DisplayAssortedData.sql
 -- SDC250L Project Part 5.2 – Displaying Assorted Data
 -- Name: Patrick Gonzalez
--- Student ID: patgon2554
 
 -- Q1. Display the USERID of any users who have not made an order.
 SELECT userid FROM userbase
